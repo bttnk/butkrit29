@@ -1,9 +1,6 @@
 <h2>👤&nbsp;Personal Info</h2>
-<p>Hi, I'm Thanakrit 🖐️. I graduated with a Bachelor's degree in Computer Engineering from Chiang Mai University.
-<p>I love learning about new things, trying out all fields of software-related stuff.</p>
-<p>I love creating. I want to create new knowledge and software for the world to use.</p>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<h4>Frontend Development</h4>
+<p>👋 Hi, I'm Thanakrit
+Network Engineer with 2+ years of hands-on experience designing, deploying, and supporting enterprise network infrastructure across banking, hospitality, industrial, and public sector clients in Thailand.</h4>
 <div align="left">
   <table>
     <tr>
