@@ -4,7 +4,8 @@ Network Engineer with 2+ years of hands-on experience designing, deploying, and 
 <div align="left">
   <table>
     <tr>
-      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></td>
+      <td><img src="<img width="971" height="512" alt="image" src="https://github.com/user-attachments/assets/34add4ab-79b3-4529-8022-f7f4ad5ba84f" />
+" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></td>
